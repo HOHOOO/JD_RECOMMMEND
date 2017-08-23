@@ -8,6 +8,7 @@ Aug 22nd
 ----------------------- | --------------------------------------------- | ----- | ----------- | --
 <http://bit.ly/2vZNGFt> | 推荐系统实践                                        | 项亮    | 2012年的书，还不错 | 3
 <http://bit.ly/2v475b5> | 《Recommender System Handbook》（推荐系统技术、评估及高效算法） | RICCI | handbook英文版 | 4
+<http://bit.ly/2w2FzZ0> | 推荐系统技术、评估及高效算法                                | RICCI | handbook中文版 | 4
 
 ## Website
 
