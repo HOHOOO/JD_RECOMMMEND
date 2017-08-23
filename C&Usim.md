@@ -1,6 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
-</script>
-
 # 排序算法
 
 Aug 22nd
@@ -62,14 +59,4 @@ so，所有的$w(p_j)$ 构成了$w_j$,参与计算$R(u,d)=f(x_1,...,x_n)$
 
 SGD算法的迭代计算公式如下：
 
-$\begin{equation}\mathbf{w}_{t+1} = \mathbf{w}_t - \eta_t\mathbf{g}_t\end{equation}$ formula1: $$n==x$$
-
-formula2: $$n!=x$$
-
-formula3: (m==y)
-
-formula4: [m!=y]
-
-formula5: (k==z)
-
-formula6: [k!=z]
+$\begin{equation}\mathbf{w}_{t+1} = \mathbf{w}_t - \eta_t\mathbf{g}_t\end{equation}$ formula1:
