@@ -1,4 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
+<script type="text/javascript" async="" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
 # 排序算法
@@ -25,7 +25,7 @@ $f$为聚合函数，可简单理解为：<br>
 若可以计算商品之间的相似度<br>
 若用户有历史浏览过的商品<br>
 则可以先计算得到用户之前有过行为的商品$D=(d_1,...,d_q)$<br>
-$$R(u,d)=\sum\limits_ {j=1,j=i}^q {sim(d_i,d_j),R(u,dj)}$$<br>
+$$R(u,d)=\sum\limits_ {j=1,j=i}^q {sim(d_i,d_j),R(u,dj)}$$
 
 **case3:** **基于历史数据获得默认值**<br>
 许多推荐系统需要从在线行为中学习偏好，而非用户显示的去表达，譬如说需要该用户之前的行为数据。<br>
@@ -62,4 +62,14 @@ so，所有的$w(p_j)$ 构成了$w_j$,参与计算$R(u,d)=f(x_1,...,x_n)$
 
 SGD算法的迭代计算公式如下：
 
-$\begin{equation}\mathbf{w}_{t+1} = \mathbf{w}_t - \eta_t\mathbf{g}_t\end{equation}$
+$\begin{equation}\mathbf{w}_{t+1} = \mathbf{w}_t - \eta_t\mathbf{g}_t\end{equation}$ formula1: $$n==x$$
+
+formula2: $$n!=x$$
+
+formula3: (m==y)
+
+formula4: [m!=y]
+
+formula5: (k==z)
+
+formula6: [k!=z]
